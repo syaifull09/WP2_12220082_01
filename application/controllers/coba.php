@@ -4,7 +4,7 @@ class coba extends CI_Controller
     public function index()
     {
         //code...
-        echo "selamat datang di webprograming II";
+        echo "selamat datang di web programing II";
         
     }
     public function biodata($nama=null,$nim=null)
